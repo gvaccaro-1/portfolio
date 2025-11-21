@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-## Welcome to this sample portfolio!
+## Sample Portfolio ! :) 
+### This is an example of a practice website. 
 
 
 #### Here are some example pages:
@@ -11,3 +12,5 @@ title: Home
 - [Markdown](02-markdown-examples)
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
+
+#### This seems much easier than html
